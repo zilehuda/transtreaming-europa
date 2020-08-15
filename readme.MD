@@ -1,8 +1,12 @@
 # Europa
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+# Transtreaming Documentation
 
-# Installlation
+Please refer to main github reposity for a complete transtreaming documentation
+ - [Github Reposity](https://github.com/zilehuda/transtreaming)
+
+# Installation
 
   Move to europa directory
  ```sh
@@ -14,9 +18,10 @@ Install the dependencies
  ```sh
 $ pip install -r requirements.txt
 ```
+
 run the flask app
  ```sh
-$ flask run
+$ python -m flask app.py
 ```
 
 ### Endpoints
