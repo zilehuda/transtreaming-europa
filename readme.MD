@@ -57,8 +57,4 @@ Receive
 ```
 License
 ----
-
-MIT
-
-
-**Free Software, Hell Yeah!**
+This software is licensed under the MIT License (MIT). [View the license](https://github.com/zilehuda/transtreaming-jupiter/blob/master/LICENSE.md).
