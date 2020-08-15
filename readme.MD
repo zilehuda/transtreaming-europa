@@ -42,11 +42,11 @@ Receive
 {
     "text": "",
     "roomid: "",
-    "partner_id": "",
+    "uid": "",
     "src": "en"
 }
 ```
-Client Listen on: {partner_id}
+Client Listen on: {uid}
 
 
 Receive
